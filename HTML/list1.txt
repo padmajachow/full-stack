@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>List tag</title>
+</head>
+<body>
+<ol>
+<li>List</li>
+<li>list1</li>
+</ol>
+<ul>
+<li>list1</li>
+<li>list2</li>
+</ul>
+</body>
+<hmtl>

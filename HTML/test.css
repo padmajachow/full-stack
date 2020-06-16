@@ -1,0 +1,23 @@
+.a1{
+    text-align:center;
+    border-style:dotted;
+    border: width 3PX;;
+    border-radius:4px;
+    border-color:darkorange;
+    margin:40px;
+    padding:30px;
+
+
+}
+.a2{
+    text-align:center;
+    border-style:double;
+    border-width :5PX;
+    border: radius 3PX;
+    border-color:darkred;
+    margin-left: 20PX;
+    margin-top:20PX;
+    margin-right:30PX;
+    margin-bottom:30PX;
+
+}
